@@ -1,6 +1,7 @@
-СФЕРЫ ПРИМЕНЕНИЯ LINUX  	(1) Сервер (debian, ubuntu server, centos) 	(2) Моб/устройства (android) 	(3) Рабочие станции (ubuntu, manjaro) 	(4) IoT 	 	Manjaro Linux
-СФЕРЫ ПРИМЕНЕНИЯ LINUX  	(1) Сервер (debian, ubuntu server, centos) 	
+СФЕРЫ ПРИМЕНЕНИЯ LINUX  	(1) Сервер (debian, ubuntu server, centos) 	(2) Моб/устройства (android) 	(3) Рабочие станции (ubuntu, manjaro) 	(4) IoT 	 	Manjaro Linux	
+
 GIT - программа (система контроля версий, вспом. инструмент любого разработчика)  GITHUB - хостинг для git (репо)  Репозиторий - файловая БД проекта с историей разработки (.git/) 	(хранилище)
+
 ls - листинг каталогов/файлов
 
 pwd (print working dir) - показать тек/каталог
